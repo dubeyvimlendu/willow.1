@@ -1,4 +1,4 @@
-![Hero Image](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+
 
 # 📚 DSA Problem of the Day Solutions
 
@@ -7,12 +7,6 @@
 
 ---
 
-### 🔖 Badges
-
-![GitHub repo size](https://img.shields.io/github/repo-size/dubeyvimlendu/DSA-POTD?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/dubeyvimlendu/DSA-POTD?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/dubeyvimlendu/DSA-POTD?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/dubeyvimlendu/DSA-POTD?style=for-the-badge)
 
 ---
 
